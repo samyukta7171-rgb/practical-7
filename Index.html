@@ -1,0 +1,12 @@
+<DOCKTYPE html>
+<html>
+<head>
+	<title>My Cloud web application</title>
+</head>
+<body>
+	<h1>Welcome to my Cloud web Application</h1>
+	<h2>Name: Lankapati Lankeshwar</h2>
+	<h3>Department: Computer Engineering</h3>
+	<p>This website is hosted on Google Cloud.</p>
+</body>
+</html>
